@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f5d82ca-1942-4c8d-b6d5-a4ee36535813" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1a9WxGlEHsBITJityFFkejjXDwy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f5d82ca-1942-4c8d-b6d5-a4ee36535813" name="Default Changelist" comment="" />
+      <created>1586148534163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586148534163</updated>
+      <workItem from="1586148535734" duration="783000" />
+      <workItem from="1586156851725" duration="304000" />
+      <workItem from="1586179159780" duration="5533000" />
+      <workItem from="1586236980635" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="185" width="806" height="676" key="#Deployment" timestamp="1586180511360">
+      <screen x="0" y="0" width="1880" height="1045" />
+    </state>
+    <state x="535" y="185" width="806" height="676" key="#Deployment/0.0.1880.1045@0.0.1880.1045" timestamp="1586180511360" />
+    <state x="535" y="185" width="806" height="676" key="#Options" timestamp="1586180522999">
+      <screen x="0" y="0" width="1880" height="1045" />
+    </state>
+    <state x="535" y="185" width="806" height="676" key="#Options/0.0.1880.1045@0.0.1880.1045" timestamp="1586180522999" />
+    <state x="97" y="99" width="1686" height="849" key="DirDiffDialog" timestamp="1586186265897">
+      <screen x="0" y="0" width="1880" height="1045" />
+    </state>
+    <state x="97" y="99" width="1686" height="849" key="DirDiffDialog/0.0.1880.1045@0.0.1880.1045" timestamp="1586186265897" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1586186291269">
+      <screen x="0" y="0" width="1880" height="1045" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.0.1880.1045@0.0.1880.1045" timestamp="1586186291269" />
+    <state x="840" y="247" width="196" height="551" key="ftp.server.browser" timestamp="1586179674544">
+      <screen x="0" y="0" width="1880" height="1045" />
+    </state>
+    <state x="840" y="247" width="196" height="551" key="ftp.server.browser/0.0.1880.1045@0.0.1880.1045" timestamp="1586179674544" />
+  </component>
+</project>
